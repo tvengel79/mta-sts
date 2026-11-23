@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
+mx: vanengeland-be.mail.protection.outlook.com
 mx: *.mail.protection.outlook.com
 max_age: 86400
